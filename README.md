@@ -20,6 +20,11 @@ O objetivo deste projeto foi consolidar os fundamentos da programação, essenci
 * **Verificar se o Número é Primo:** Uso de laços estruturados e controle de fluxo com múltiplos retornos.
 * **Contar Vogais em uma Frase:** Manipulação de strings, métodos nativos (`.toLowerCase()`, `.includes()`) e contagem acumulada.
 * **Verificar se número é Par ou Ímpar:** Aplicação de condicionais com o operador módulo (`%`).
-
 ---
+## 📸 Demonstração do Código no Terminal
+
+Aqui está o registro dos exercícios rodando com sucesso no terminal:
+
+<img width="100%" alt="Exercício 15 Rodando" src="https://github.com/user-attachments/assets/e7ef0364-52a8-44e3-9691-c84765e3f835" />
+
 🔧 *Desenvolvido por Giordano como parte dos estudos focados em Automação de Testes.*
